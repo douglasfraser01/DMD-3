@@ -1,0 +1,6 @@
+numpy
+scipy
+scipy.integrate
+matplotlib
+IPython.display
+pydmd
